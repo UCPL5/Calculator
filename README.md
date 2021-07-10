@@ -1,2 +1,10 @@
-# Calculator
-All in one Calculator related with Rate Calculation 
+## Calculator
+Web app url : https://UCPL5.github.io/Calculator
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_Empty
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=UCPL5&repo=Calculator) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
